@@ -64,4 +64,4 @@ function hideElement(element) {
     element.style.display = "none"
 }
 
-//credit: coursera
+//credit: scrimba
